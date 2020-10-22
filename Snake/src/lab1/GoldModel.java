@@ -41,6 +41,9 @@ public class GoldModel extends GameModel {
 		}
 	}
 	
+        
+        
+        
 	
 
 	private static final int COIN_START_AMOUNT = 20;
