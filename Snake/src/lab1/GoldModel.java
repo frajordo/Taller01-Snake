@@ -1,4 +1,4 @@
- package lab1;
+package lab1;
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -197,7 +197,7 @@ public class GoldModel extends GameModel {
 
 		// Remove the coin at the new collector position (if any)
 		if (this.coins.remove(this.collectorPos)) {
-			this.score += 2;
+			this.score++;
 		}
 
 		// Check if all coins are found

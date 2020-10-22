@@ -1,7 +1,7 @@
 package lab1;
 
 import javax.swing.JFrame;
-//hola hola 
+
 /**
  * This class creates an AWT window which will contain the game.
  */
